@@ -19,7 +19,7 @@ streamlit run app.py
 ```
 
 ##  Dashboard en línea
-[Ver dashboard en Streamlit Cloud](URL_AQUI)
+[Ver dashboard en Streamlit Cloud](https://titanic-ml-dashboard-udbcd3untp4m7y6oqyavdw.streamlit.app/)
 
 ##  Modelos comparados
 | Modelo | Accuracy | F1-Score |
