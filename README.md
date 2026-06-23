@@ -2,7 +2,11 @@
 
 Dashboard interactivo de Machine Learning para predicción de supervivencia en el Titanic.
 
+<<<<<<< HEAD
 ## Estructura del repositorio
+=======
+##  Estructura del repositorio
+>>>>>>> ecfed63fbff08d793458e9b77b7c15e6f17248af
 
 ```
 ├── app.py                  # Dashboard Streamlit (Panel A + Panel B)
