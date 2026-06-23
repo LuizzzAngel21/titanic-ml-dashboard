@@ -1,8 +1,8 @@
-# 🚢 Titanic ML Dashboard — PC2 USIL 2026-1
+# Titanic ML Dashboard — PC2 USIL 2026-1
 
 Dashboard interactivo de Machine Learning para predicción de supervivencia en el Titanic.
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 ```
 ├── app.py                  # Dashboard Streamlit (Panel A + Panel B)
@@ -11,17 +11,17 @@ Dashboard interactivo de Machine Learning para predicción de supervivencia en e
 └── README.md
 ```
 
-## 🚀 Cómo ejecutar localmente
+##  Cómo ejecutar localmente
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🌐 Dashboard en línea
+##  Dashboard en línea
 [Ver dashboard en Streamlit Cloud](URL_AQUI)
 
-## 📊 Modelos comparados
+##  Modelos comparados
 | Modelo | Accuracy | F1-Score |
 |---|---|---|
 | Regresión Logística | 0.8045 | 0.7552 |
@@ -30,7 +30,7 @@ streamlit run app.py
 | SVM (RBF) | 0.7989 | 0.7353 |
 | **KNN ★** | **0.8268** | **0.7704** |
 
-## 🏫 Dataset
+##  Dataset
 - **Fuente:** Kaggle — Titanic: Machine Learning from Disaster
 - **Registros:** 891 pasajeros
 - **Tarea:** Clasificación binaria (Survived: 0/1)
